@@ -53,7 +53,7 @@
         <spring-jdbc.version>5.0.5.RELEASE</spring-jdbc.version>
         <fastjson.version>1.2.68</fastjson.version>
         <commons-lang3.version>3.4</commons-lang3.version>
-        <dubbo.version>2.6.8</dubbo.version>
+        <dubbo.version>2.6.12</dubbo.version>
         <aliyun-java-sdk-core.version>3.5.0</aliyun-java-sdk-core.version>
         <aliyun-java-sdk-dysmsapi.version>1.1.0</aliyun-java-sdk-dysmsapi.version>
         <aliyun-sdk-mns.version>1.1.8.4</aliyun-sdk-mns.version>
