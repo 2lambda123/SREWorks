@@ -44,7 +44,7 @@
         <elasticsearch.version>7.17.14</elasticsearch.version>
         <neo4j-java-driver.version>1.6.2</neo4j-java-driver.version>
         <okhttp3.okhttp.version>3.11.0</okhttp3.okhttp.version>
-        <mysql-connector-java.vesrion>5.1.44</mysql-connector-java.vesrion>
+        <mysql-connector-java.vesrion>8.0.28</mysql-connector-java.vesrion>
         <guava.vesrion>20.0</guava.vesrion>
         <guava-retrying.vesrion>2.0.0</guava-retrying.vesrion>
         <quartz-all.vesrion>1.6.1</quartz-all.vesrion>
