@@ -48,7 +48,7 @@
         <guava.vesrion>20.0</guava.vesrion>
         <guava-retrying.vesrion>2.0.0</guava-retrying.vesrion>
         <quartz-all.vesrion>1.6.1</quartz-all.vesrion>
-        <jsoup.version>1.11.3</jsoup.version>
+        <jsoup.version>1.15.3</jsoup.version>
         <libthrift.version>0.14.0</libthrift.version>
         <protobuf-java.vesrion>3.16.3</protobuf-java.vesrion>
         <presto-jdbc.version>304</presto-jdbc.version>
