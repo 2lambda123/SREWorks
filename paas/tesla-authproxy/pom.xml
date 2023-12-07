@@ -29,7 +29,7 @@
         <spring-security-jwt.version>1.0.9.RELEASE</spring-security-jwt.version>
         <spring-session.version>1.3.3.RELEASE</spring-session.version>
         <mockito-all.version>1.10.19</mockito-all.version>
-        <nimbus-jose-jwt.version>7.2.1</nimbus-jose-jwt.version>
+        <nimbus-jose-jwt.version>7.9</nimbus-jose-jwt.version>
         <jjwt.version>0.9.1</jjwt.version>
         <maven-antrun.version>1.8</maven-antrun.version>
         <spring-test.version>4.3.2.RELEASE</spring-test.version>
