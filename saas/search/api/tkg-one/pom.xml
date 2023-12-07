@@ -36,7 +36,7 @@
         <tesla-common.version>2.1.0</tesla-common.version>
 
         <!-- other -->
-        <plexus-archiver.version>2.2</plexus-archiver.version>
+        <plexus-archiver.version>4.8.0</plexus-archiver.version>
         <commons-dbcp.version>1.4</commons-dbcp.version>
         <commons-io.version>2.6</commons-io.version>
         <commons-beanutils.version>1.9.4</commons-beanutils.version>
