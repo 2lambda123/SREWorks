@@ -64,7 +64,7 @@
         <jackson.version>2.9.1</jackson.version>
         <elastic-job.version>2.1.5</elastic-job.version>
         <jsoup.version>1.11.1</jsoup.version>
-        <pagehelper.version>4.1.6</pagehelper.version>
+        <pagehelper.version>5.3.1</pagehelper.version>
     </properties>
 
     <modules>
