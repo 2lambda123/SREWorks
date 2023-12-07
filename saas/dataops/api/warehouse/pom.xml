@@ -48,7 +48,7 @@
 
         <apache.curator.version>2.13.0</apache.curator.version>
         <apache.httpcomponents.version>4.5.13</apache.httpcomponents.version>
-        <poi-version>3.15</poi-version>
+        <poi-version>4.1.1</poi-version>
 
         <jinjava-version>2.5.6</jinjava-version>
     </properties>
