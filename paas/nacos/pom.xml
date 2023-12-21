@@ -22,7 +22,7 @@
         <nacos.spring.cloud.starter.version>2.1.0.RELEASE</nacos.spring.cloud.starter.version>
         <junit.version>4.12</junit.version>
         <guava.version>22.0</guava.version>
-        <fastjson.version>1.2.68</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <tesla.spring.version>2.1.9</tesla.spring.version>
         <mysql-connector-java.version>5.1.48</mysql-connector-java.version>
     </properties>
