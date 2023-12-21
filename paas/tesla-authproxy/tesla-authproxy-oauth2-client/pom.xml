@@ -24,7 +24,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-        <spring-boot.version>1.5.17.RELEASE</spring-boot.version>
+        <spring-boot.version>2.7.18</spring-boot.version>
         <slf4j.version>1.7.25</slf4j.version>
         <jjwt.version>0.9.1</jjwt.version>
         <lombok.version>1.18.2</lombok.version>
