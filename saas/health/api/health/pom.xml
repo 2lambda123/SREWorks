@@ -42,7 +42,7 @@
 
         <okhttp.version>3.14.9</okhttp.version>
         <google.guava.version>23.0</google.guava.version>
-        <kafka.client.version>2.8.0</kafka.client.version>
+        <kafka.client.version>2.8.1</kafka.client.version>
 
         <apache.curator.version>2.13.0</apache.curator.version>
         <apache.httpcomponents.version>4.5.13</apache.httpcomponents.version>
