@@ -31,7 +31,7 @@
         <elasticsearch-hl-client>7.13.0</elasticsearch-hl-client>
         <elasticsearch-client>7.13.0</elasticsearch-client>
 
-        <fastjson.version>1.2.68</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <jackson.version>2.12.7.1</jackson.version>
         <pandora-boot.version>2019-09-stable</pandora-boot.version>
         <pandora-boot-maven-plugin.version>2.1.11.8</pandora-boot-maven-plugin.version>
