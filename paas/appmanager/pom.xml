@@ -54,7 +54,7 @@
         <micrometer-registry-prometheus.version>1.8.3</micrometer-registry-prometheus.version>
 
         <!-- alibaba -->
-        <fastjson.version>1.2.83_noneautotype</fastjson.version>
+        <fastjson.version>1.2.25.sec10</fastjson.version>
         <okhttp.version>4.9.3</okhttp.version>
         <jsonpath.version>2.9.0</jsonpath.version>
         <jinjava.version>2.6.0</jinjava.version>
