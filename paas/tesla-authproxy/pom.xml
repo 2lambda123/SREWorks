@@ -51,7 +51,7 @@
         <mybatis-paginator.version>1.2.15</mybatis-paginator.version>
         <lombok.version>1.18.2</lombok.version>
         <spring-jdbc.version>5.0.5.RELEASE</spring-jdbc.version>
-        <fastjson.version>1.2.68</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <commons-lang3.version>3.4</commons-lang3.version>
         <dubbo.version>2.6.12</dubbo.version>
         <aliyun-java-sdk-core.version>3.5.0</aliyun-java-sdk-core.version>
